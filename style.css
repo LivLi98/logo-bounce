@@ -1,0 +1,30 @@
+body{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(198, 198, 198);
+    box-sizing: border-box;
+}
+
+img{
+    width: 175px;
+
+    /* animation:img-movement;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear; */
+    
+}
+
+.img-container{
+    width: 860px;
+    height: 600px;
+    margin-left: 370px;
+    border-radius: 10px;
+}
+
+marquee{
+    height:66vh
+   
+}
+     
+    
